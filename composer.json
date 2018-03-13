@@ -1,0 +1,13 @@
+{
+    "name": "xb/exception",
+    "description": "Exceptions of XBsoft",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "enze",
+            "email": "enzewei@gmail.com"
+        }
+    ],
+    "require": {}
+}
